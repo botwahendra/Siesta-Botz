@@ -44,27 +44,27 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 global.sig = 'https://instagram.com/XyzenzKannaV1'
 global.sgh = 'https://github.com/XyzenzKannaV1'
 global.sgc = 'https://chat.whatsapp.com/KNuPWvGn3AG0srT3vdr0Ea'
-global.sdc = 'https://wa.me/6283866366437'
+global.sdc = 'https://wa.me/6285781571707'
 global.snh = 'https://youtube.com/channel/Siesta Botz'
 
 /*============== PAYMENT ==============*/
-global.pdana = '083866366437'
-global.povo = '083866366437'
-global.pgopay = '083866366437'
+global.pdana = '085781571707'
+global.povo = '085781571707'
+global.pgopay = '085781571707'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283112831554'
-global.nomorown = '6283866366437'
-global.namebot = 'Siesta MD'
-global.nameown = 'Kanna Chan'
+global.nomorbot = '6285781571707'
+global.nomorown = '6285781571707'
+global.namebot = 'Hendra MD'
+global.nameown = 'Hendra Chan'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283866366437'],
-  ['6283866366437'],
-  ['6283866366437'],
-  ['6283866366437', 'Kanna Chan', true]
+  ['6285781571707'],
+  ['6285781571707'],
+  ['6285781571707'],
+  ['6285781571707', 'Hendra Chan', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,9 +109,9 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'Siesta MD' //Main Watermark
-global.wm2 = 'Siesta MD'
-global.wm3 = 'Siesta MD'
+global.wm = 'Hendra MD' //Main Watermark
+global.wm2 = 'Hendra MD'
+global.wm3 = 'Hendra MD'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
